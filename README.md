@@ -1,2 +1,2 @@
 # NUSALOKAL-
-git ini digunakan untuk pengembangan ecommerce NUSALOKAl 
+git ini digunakan untuk pengembangan ecommerce NUSALOKAL
