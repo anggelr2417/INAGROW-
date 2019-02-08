@@ -1,2 +1,2 @@
 # INAGROW-
-git ini digunakan untuk pengembangan ecommerce INAGROW 
+git ini digunakan untuk pengembangan ecommerce NUSALOKAl 
